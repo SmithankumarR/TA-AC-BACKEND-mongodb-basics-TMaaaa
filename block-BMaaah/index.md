@@ -160,7 +160,7 @@ db.users.insertMany([
     name: "Suraj Kumar",
     weight: 50,
     gender: "Male",
-    sports: ["football", "cricket", "TT"],
+    sports: ["football", "cricket", "TT"],db.users
   },
 ]);
 ```
