@@ -521,4 +521,3 @@ var students = [
     }
   ]
 
-  db.students.insertMany(students)
